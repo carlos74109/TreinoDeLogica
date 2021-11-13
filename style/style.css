@@ -1,0 +1,21 @@
+.Botao {
+    text-decoration: none;
+    background-color: darkgrey;
+    padding: 5px 10px 5px 0px;
+    color: bisque;
+    font-size: 1.2em;
+    font-weight: 700;
+    border-radius: 5px;
+    cursor:cursor;
+}
+
+.titulo {
+    color:dimgray;
+}
+h1 {
+    text-align: center;
+}
+
+input {
+    text-align: left;
+}
